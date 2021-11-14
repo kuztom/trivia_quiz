@@ -13,7 +13,7 @@
                         <p> Welcome to Trivia quiz game! </p>
                     </div>
                     <div class="text-center">
-                        <p class="mb-4 ">This Trivia game has 20 questions about numbers and each of them has 4 answers.<br>
+                        <p class="mb-4 ">Game has 20 questions about numbers and each of them has 4 answers.<br>
                             Only one answer is correct.<br>
                             The game ends in case of a wrong answer.<br>
                             Click button to start the quiz.<br>
